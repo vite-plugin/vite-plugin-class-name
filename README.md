@@ -1,2 +1,2 @@
-# vite-plugin-class-name
+# vite-plugin-cssmodule
 Automatic processing of CSS Modules
